@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Mid-task Guidance",
+    "description": "Messages you send while the agent is working reach it as guidance for the current task instead of a new task, so it continues rather than starting over."
+  }
+}

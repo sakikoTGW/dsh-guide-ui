@@ -1,0 +1,4 @@
+# dsh-guide bundle patch: one Host row. The plugin contributes no Client code.
+- insert:
+    - id: dsh-guide
+      name: 'dsh-guide-ui'
