@@ -1,6 +1,6 @@
 {
   "name": "dsh-guide-ui",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "description": "Mid-task guidance for DeepSeek Harness, with a header badge switch.",
   "type": "module",
   "exports": {
